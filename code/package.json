@@ -1,0 +1,19 @@
+{
+  "name": "wiki-search-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Wiki Search App Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachhh888/Wiki-Search-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachhh888/Wiki-Search-App/issues"
+  },
+  "homepage": "https://github.com/zachhh888/Wiki-Search-App#readme"
+}
